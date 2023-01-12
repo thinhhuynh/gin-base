@@ -4,6 +4,17 @@ A template of clean architecture with gin framework, go-fx as dependency contain
 
 To learn about project structure and dependency injection please go through [here](https://medium.com/wesionary-team/dependency-injection-with-go-fx-b698a6585cf0?source=friends_link&sk=26f391ae41c493946ee3434be2ed4971)
 
+### Dependencies
+
+<details>
+    <summary>Project dependencies</summary>
+
+| Name           | Version                  | Node                                        |
+| -------------- | ------------------------ | ------------------------------------------- |
+| `golang`       | `1.19+`                  | [golang](https://go.dev/)                   |
+| `postgres`     | `14.5+`                  |                                             |
+| `mysql`        | `8.0+`                   |                                             |
+
 ## Running the project
 
 - Make sure you have docker installed.
