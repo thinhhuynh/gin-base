@@ -1,0 +1,5 @@
+.env
+server.log
+gin-base
+__debug_bin
+.idea
